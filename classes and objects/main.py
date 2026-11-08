@@ -21,7 +21,7 @@ from classes.tar4 import Product
 # print(dana)
 
 #tar4
-laptop = Product("Laptop", 1000)
-mouse = Product("Mouse", 50)
-print(Product.created_count)
-print(laptop.price_with_vat())
+# laptop = Product("Laptop", 1000)
+# mouse = Product("Mouse", 50)
+# print(Product.created_count)
+# print(laptop.price_with_vat())
